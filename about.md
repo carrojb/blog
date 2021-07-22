@@ -6,7 +6,7 @@ published: true
 ---
 
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/gloves.jpg" width="400" 
-     height="267" align="left"/> 
+     height="267" align="left" hspace="20" vspace="20"/> 
 
 
 <p>John is from the black belt region of Alabama where he raises cattle and pursues his passion for documentary photography. His, short stories, drawings, and photographs explore the relationship of the physical landscape, ethnic segregation and its role in resultant racism. 
