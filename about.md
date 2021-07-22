@@ -5,7 +5,8 @@ permalink: /about/
 published: true
 ---
 
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/gloves.jpg" align="left" alt="Calving season"/> 
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/gloves.jpg" width="400" 
+     height="267" align="left"/> 
 
 
 John is from the black belt region of Alabama where he raises cattle and pursues his passion for documentary photography. His, short stories, drawings, and photographs explore the relationship of the physical landscape, ethnic segregation and its role in the resultant racism. 
