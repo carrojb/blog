@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/gloves.jpg" width="400" 
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/gloves2.jpg" width="400" 
      height="267" align="left" hspace="20" vspace="20"/> 
 
 
