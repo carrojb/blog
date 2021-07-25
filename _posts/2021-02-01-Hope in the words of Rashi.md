@@ -58,19 +58,19 @@ The moral question remains do you forgive a person like my father, which in real
 This gives him what he wants use of our family land with no concern to those he's harmed. A year after he was removed, not once has he inquired or done anything to support my mother. 
 That burden has fallen on me.
   <p>
-Before I wrote what I am thinking, I want to explain. I am a believer in a higher power call it divine call it God. I am not a churchgoer; at best, I wander into a synagogue once or twice a year and worship as part of a community. And my task of keeping a journal, I wondered if this was too personal, but then I was reminded that is what a journal is.
+Before I wrote what I am thinking, I want to explain. I'm a believer in a higher power call it divine call it God. I am not a churchgoer; at best, I wander into a synagogue once or twice a year and worship as part of a community. And my task of keeping a journal, I wondered if this was too personal, but then I was reminded that is what a journal is.
 <p>
 Instead of church or synagogue, I try to believe and live my faith simply. In that, I fail miserably daily. But being a man of faith, scriptures have meaning. 
 The Bible tells us, "You shall not hate your brother in your heart" (Leviticus 19:17)
 The best example is the story of Joseph and his brothers.
-In Rabbi Luzzatto's classic Mesillas Yesharim [ https://en.wikipedia.org/wiki/Mesillat_Yesharim ] I found this discussion,
+In Rabbi Luzzatto's classic <a href="https://en.wikipedia.org/wiki/Mesillat_Yesharim">Mesillas Yesharim </a> I found this discussion,
 "Hate and revenge, too, are very difficult for man's spiteful heart to escape, for in view of his being extremely sensitive to insult and suffering great anguish because of it, revenge, which is the only thing which will put him at rest, is sweeter than honey to him" (Chapter 11). 
 Psychologically there is positive energy when someone wants something from us, and we are able to say no. I remember what you did to me. But that doesn't make it the right moral decision.
   <p>
 The Torah says, "Lo sikom — You shall not take revenge" (Leviticus 19:18).
 Rabbi Luzzato writes,
     <p><i>
-So, you forgo "the only thing which will put [you] to rest" and which "is sweeter than honey," and you want to say, "You don't deserve favor from me. But I am more of a mentsch [decent person] than you are, and I will do it for you." But the Torah states, "Lo sitor — You shall not bear a grudge" (ibid.). If you are able to do the favor, you should do it without comment"</i>.
+So, you forgo "the only thing which will put [you] to rest" and which "is sweeter than honey," and you want to say, "You don't deserve favor from me. But I am more of a mentsch [decent person] than you are, and I will do it for you." But the Torah states, "Lo sitor — You shall not bear a grudge". If you are able to do the favor, you should do it without comment"</i>.
 <p>
 But how do you find a forgiving heart in such circumstances?
 <p>
@@ -79,7 +79,7 @@ I kept going back to Joseph's story and found something I had missed. After Jaco
 There is the key concept I missed in the first reading when bad things happen and a person is purposely harmed; God may be using this for a greater good we don't realize.
 This point I have written on my hand occasionally to make me remember the point, what we perceive as harm by another, in fact, could be something God intends for good.
 <p>
-One of my favorite guides to understanding scripture at depth is the writings of a medieval Jewish Rabbi named Shlomo Yitzchaki, commonly referred to as Rashi. [ https://en.wikipedia.org/wiki/Rashi ] In his commentary on the Torah and this story of Joseph and his brothers, he explains that Joseph said that "there is no point in fearing that he would exact revenge because man cannot control the outcome of his actions. If I would wish to punish you, I am powerless to do so, because Hashem (God) determines the results of one's actions." 
+One of my favorite guides to understanding scripture at depth is the writings of a medieval Jewish Rabbi named Shlomo Yitzchaki, commonly referred to as <a href="https://en.wikipedia.org/wiki/Rashi">Rashi</a>. In his commentary on the Torah and this story of Joseph and his brothers, he explains that Joseph said that "there is no point in fearing that he would exact revenge because man cannot control the outcome of his actions. If I would wish to punish you, I am powerless to do so, because Hashem (God) determines the results of one's actions." 
 If we realize we are powerless to take revenge, it is easier to ignore that desire.
 Having subdued your drive for what "is sweeter than honey" and given up "the only thing which will put [you] to rest," you find that you still feel hostility toward the offender. 
   <p>
@@ -88,7 +88,7 @@ This enabled me to realize that what happened to my mother and me could be how G
 If Rashi and the Torah are right, God will never ask us what we cannot do. Each test he gives us of being able to hold on to our anger and not take revenge is an act of forgiving in its way.
     <p>
 There is another psychological energy being built up here that psychologists do not describe, but one Rashi is zoned in on, and Joseph clearly understood.
-As I watched my father approach me that day, I realized a point what he would do. When in court, I said candidly I thought of shooting him to stop it, but I didn't want to be the guy that killed his father; instead, he ran over me, and that led to a series of events that neither his lies nor his lawyer could overcome. His actions and my inaction of not seeking revenge defeated all his plans.
+As I watched my father approach me that day, I realized what he would do. When in court, I said candidly I thought of shooting him to stop it as I had a pistol on me, but I didn't want to be the guy that killed his father; instead, he ran over me, and that led to a series of events that neither his lies nor his lawyer could overcome. His actions and my inaction of not seeking revenge defeated all his plans.
 This is how God works, and I have learned thanks to Rashi and Joseph.
 To be clear are under no obligation to take him back into our family. But we do not hold a grudge, and we can forgive him. 
-And it is a reminder through his malicious actions, and God used to protect us.
+And it is a reminder through his malicious actions, and how God used those to protect us.
