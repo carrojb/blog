@@ -4,9 +4,10 @@ published: true
 title: Hope in the words of Rashi
 share-img: "https://jonkalev.s3-us-west-2.amazonaws.com/20210501_03.jpg"
 ---
-
-<img src="https://justacowman.s3.us-east-2.amazonaws.com/20201213_hopeborn.jpg">
-
+<figure>
+ <img src="https://justacowman.s3.us-east-2.amazonaws.com/20201213_hopeborn.jpg">
+ <figcaption>Hope just moments after her birth</figcaption>
+</figure>
 "Welcome to the world," I said to this little calf in a cold rain after she was born, struggling to her feet, mother licking her, and nursing.
 Named "Hope," she's a culmination of two years of work to produce a black F1 hybrid / Bahama Angus cross. The type of cow that I think best adapted to my ranch. Parallel to that, I embarked on keeping a journal of restoring a farm in rural Alabama.
 The ear tag number (101) signifies a new beginning after what feels like a hundred years of darkness.
