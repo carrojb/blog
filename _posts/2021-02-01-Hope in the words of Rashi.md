@@ -30,7 +30,8 @@ The reality is my father long-abused my mother and me. I've been beaten by this 
 Not once in my life is a memory of him shaking my hand, patting me on the back, or even inquiring about college or degrees I received, much less giving a compliment. 
 This speaks directly to who and what he is.
 As a child and then teenager, I reached out for help to my grandparents, to counselors at Abbeville high school, and to so-called religious Mormons in my family. 
-Not one person did a thing to help my mother or me. 
+<figure> <img src="https://justacowman.s3.us-east-2.amazonaws.com/2020_byron.jpg"> 
+<figcaption>My father Byron Carroll</figcaption> </figure>
 All feared my father.
 <p>
 Most damaging is how he treated my mother, which as a helpless stroke victim, is disgusting. Judge Derrick Peterson is the first person ever to hold him accountable by issuing a protective order for my mother. Even Derrick was compromised when lied to in a hearing neither my mother nor I was notified of when told that I had agreed to him living in a cabin I owned on our farm. Which, when I finally got a hearing in court, those who misled the judge were called out and the record set straight.
