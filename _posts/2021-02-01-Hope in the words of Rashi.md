@@ -17,7 +17,11 @@ The ear tag number (101) signifies a new beginning after what feels like a hundr
 For four decades, at multiple times, I attempted to raise cattle on my family's land. Every time my father blocked it, who's excuses - mainly it interfered with his hunting, he didn't think cows would eat the grass we had, he wanted his cousin to farm it. The excuses never ended. My mother believed the real reason behind this was he didn't like the farm to be productive why I have no clue; none of it to this day makes any sense why one would purposely harm a family farm to prevent others from using it.
 He tried everything he could to block me, which included trying to force my mother's caregivers to cut fences and letting cows out. He openly would speak of this and could care less if anyone heard him. People tell me, "oh, that's just Byron; he's mean as hell." This culminated when he attempted to force my mother to deed the property to his Mormon family members.
 <p>
-Meanwhile, my mother suffered. She was the one who had most of her life taken from her. Her parents loaned them the money to buy the farm and build a house that my father never repaid. He decided for her what the tv was tuned to, and he would control what she ate. 
+ When my mother was in rehab after her stroke she said somethign to me on her borthday I will never forget. My father didnt show up that day at the hopsital instead he went to a restauarant where he gave a waitress a hundred dollar tip and flirted with ehr. My mother and I sat alone in her hospital room eating the cake I got her. She said. "I want you to always remember its just you and me". 
+ <p>
+  <img src="https://justacowman.s3.us-east-2.amazonaws.com/20210201_bettie-birthday.jpg">
+  <p>
+It is heartbreaking how my mother suffered. She was the one who had most of her life taken from her. Her parents loaned them the money to buy the farm and build a house that my father never repaid. He decided for her what the tv was tuned to, and he would control what she ate. 
 I want to clear the air in this little community. Byron was kicked to the curb for a good reason; remember this.
 The reality is my father long-abused my mother and me. I've been beaten by this man with sticks, fists, and belts.
 Not once in my life is a memory of him shaking my hand, patting me on the back, or even inquiring about college or degrees I received, much less giving a compliment. 
