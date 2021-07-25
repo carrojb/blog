@@ -19,9 +19,12 @@ He tried everything he could to block me, which included trying to force my moth
 <p>
  When my mother was in rehab after her stroke she said somethign to me on her borthday I will never forget. My father didnt show up that day at the hopsital instead he went to a restauarant where he gave a waitress a hundred dollar tip and flirted with ehr. My mother and I sat alone in her hospital room eating the cake I got her. She said. "I want you to always remember its just you and me". 
  <p>
+<figure>
   <img src="https://justacowman.s3.us-east-2.amazonaws.com/20210201_bettie-birthday.jpg">
+ <figcaption>My mother eating cake on her 80th birthday at the hospital</figcaption>
+</figure>
   <p>
-It is heartbreaking how my mother suffered. She was the one who had most of her life taken from her. Her parents loaned them the money to buy the farm and build a house that my father never repaid. He decided for her what the tv was tuned to, and he would control what she ate. 
+It is heartbreaking how my mother suffered. She was the one who had most of her life taken from her. Her parents loaned them the money to buy the farm and build a house that my father never repaid. He decided for her what the tv was tuned to, and he would control what she ate. He spent eyars harasing her trying make her retire from teaching so she could be told by him what to do everyday.
 I want to clear the air in this little community. Byron was kicked to the curb for a good reason; remember this.
 The reality is my father long-abused my mother and me. I've been beaten by this man with sticks, fists, and belts.
 Not once in my life is a memory of him shaking my hand, patting me on the back, or even inquiring about college or degrees I received, much less giving a compliment. 
