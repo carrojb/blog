@@ -1,9 +1,12 @@
+---
+published: false
+---
 <img src="https://images.squarespace-cdn.com/content/v1/5e5ac47af8286310c144c4fb/1606504325139-P0D87H7QPZVUW8K8TK43/_17.jpg" alt="Clear Lake, San Juan County Colorado" />
 
 Clear Lake, San Juan County Colorado
 It's been a while since I have posted to my little blog that reflects serious thought and with good reason. 
 Life has a way of sweeping you away with its current and no time left for reflection; all you can do is hold on.
-<img src="https://images.squarespace-cdn.com/content/v1/5e5ac47af8286310c144c4fb/1606504596677-T6CM9H1G5RXMJ0ITKKY4/images.jpeg" alt="Bhagwan Shree Rashneesh" />
+<img src="https://images.squarespace-cdn.com/content/v1/5e5ac47af8286310c144c4fb/1606504596677-T6CM9H1G5RXMJ0ITKKY4/images.jpeg" align= "center" alt="Bhagwan Shree Rashneesh" />
 
 Bhagwan Shree Rashneesh
 I describe this with the analogy of canoeing when you enter the rapids for a short stretch. Your attention is reduced to just keeping the boat upright. The surrounding landscape, the destination, even knowing what day it is, is not part of your awareness at the moment. Hyper-attentive states like this are a protective response to what we perceive. We all have them, and the fight or flight behavior adapted from 300,000 years of being chased by wolves and being eaten by lions. 
