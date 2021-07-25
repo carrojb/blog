@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Hope and the words of Rashi
+title: Hope in the words of Rashi
 share-img: "https://jonkalev.s3-us-west-2.amazonaws.com/20210501_03.jpg"
 ---
 
