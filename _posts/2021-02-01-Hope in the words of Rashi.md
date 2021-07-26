@@ -91,4 +91,4 @@ There is another psychological energy being built up here that psychologists do 
 As I watched my father approach me that day, I realized what he would do. When in court, I said candidly I thought of shooting him to stop it as I had a pistol on me, but I didn't want to be the guy that killed his father; instead, he ran over me, and that led to a series of events that neither his lies nor his lawyer could overcome. His actions and my inaction of not seeking revenge defeated all his plans.
 This is how God works, and I have learned thanks to Rashi and Joseph.
 To be clear are under no obligation to take him back into our family. But we do not hold a grudge, and we can forgive him. 
-And it is a reminder through his malicious actions, and how God used those to protect us.
+And it is a reminder through his malicious actions how God used those to protect us.
