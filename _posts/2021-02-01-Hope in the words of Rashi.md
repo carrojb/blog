@@ -11,9 +11,9 @@ share-img: "https://jonkalev.s3-us-west-2.amazonaws.com/20210501_03.jpg"
 "Welcome to the world," I said to this little calf in a cold rain after she was born, struggling to her feet, mother licking her, and nursing.
 Named "Hope," she's a culmination of two years of work to produce a black F1 hybrid / Bahama Angus cross. The type of cow that I think best adapted to my ranch. Parallel to that, I embarked on keeping a journal of restoring a farm in rural Alabama.
 The ear tag number (101) signifies a new beginning after what feels like a hundred years of darkness.
-
+<p>
 <img src="https://justacowman.s3.us-east-2.amazonaws.com/20210725_calfhope.jpg">
-
+<p>
 For four decades, at multiple times, I attempted to raise cattle on my family's land. Every time my father blocked it, who's excuses - mainly it interfered with his hunting, he didn't think cows would eat the grass we had, he wanted his cousin to farm it. The excuses never ended. My mother believed the real reason behind this was he didn't like the farm to be productive why I have no clue; none of it to this day makes any sense why one would purposely harm a family farm to prevent others from using it.
 He tried everything he could to block me, which included trying to force my mother's caregivers to cut fences and letting cows out. He openly would speak of this and could care less if anyone heard him. People tell me, "oh, that's just Byron; he's mean as hell." This culminated when he attempted to force my mother to deed the property to his Mormon family members.
 <p>
