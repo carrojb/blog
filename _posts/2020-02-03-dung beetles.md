@@ -5,11 +5,12 @@ subtitle:
 publish: true
 date: 2020-02-03
 ---
-<figure>
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_beetle_taurus2.jpg">
-<figcaption> Bull headed dung beetle (Onthophagus taurus), courtesy Baylor College of Medicine</figcaption>
-</figure>
 
+<figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Zoo-Beetles.jpg">
+<figcaption> The types I've been able to identify so far</figcaption>
+</figure>
+<p>
 
 One of the most powerful tools a rancher has to improve pastures is this little creature called a dung beetle.
 They are magnificent creatures that are increasingly being eliminated by chemicals used to treat cattle in the United States. I've been studying these beauties all summer and want to share a few facts about them and discuss the promise they have to combat global warming and be the answer to navigation. Additionally a healthy population of dung beetles sequester carbon in soil, the degree of this is unknown but may have huge benefits that we dont fully yet understand. 
@@ -70,10 +71,6 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
  <p> 
   If you have made it this far you can see this is a favorite topic of mine that I feel provides us the opportuniy to learn so much more about ecology and livestock. This is a subject I will come back to many times. One thing I want to do is try to develop a way photograph the beetles flying at night and get airborne counts. Let me think through this and what I need.
   Dung beetles people, they are fascinating and valuable to our landscapes value them!
-<figure>
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Zoo-Beetles.jpg">
-<figcaption> These are the different types I've been able to identify so far</figcaption>
-</figure>
-<p>
+
 <p>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/ZRN-Lu-m-oY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
