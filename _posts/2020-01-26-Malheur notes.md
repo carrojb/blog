@@ -104,7 +104,7 @@ Hopefully, these photos and notes will offer a glimpse into the people and their
 
 
 <figure>
-<img src="https://jonkalev.s3-us-west-2.amazonaws.com/Malheur_Hammonds.jpg">
+<img src="https://justacowman.s3.us-east-2.amazonaws.com/20200126_Malheur_Hammonds.jpg">
 <figcaption>Ranchers Dwight and Steven Hammond who were granted clemency</figcaption>
 </figure>
 <figure>
