@@ -108,7 +108,7 @@ Hopefully, these photos and notes will offer a glimpse into the people and their
 <figcaption>Ranchers Dwight and Steven Hammond who were granted clemency</figcaption>
 </figure>
 <figure>
-<img src="https://jonkalev.s3-us-west-2.amazonaws.com/malheur_15.jpg">
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/malheur_15.jpg" align="center">
 <figcaption>Protesters who occupied Malheur that were arrested by the federal government</figcaption>
 </figure>
 
