@@ -47,5 +47,6 @@ Now I am going back to fix the unfixable.
 I will say this watching one’s parents suffer on a countdown to death takes all the wind out of your soul, what creative energy one has evaporates. 
 
 My camera was accumulating dust; I spent every day it seemed trying to figure out how to make things better in an environment that was never going to be better. Being there off and on the past as time allowed caring for them, just being present maybe meant something. 
+I have a feeling it will be a long time before I come back to thee mountains where I have spent so much of my life and that hurts my heart.
 
-I don’t know maybe all you do is bear witness.
+I don’t know maybe all you do is bear witness to life.
