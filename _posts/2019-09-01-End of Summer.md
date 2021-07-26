@@ -5,7 +5,7 @@ subtitle:
 publish: true
 bigimg: https://jonkalev.s3-us-west-2.amazonaws.com/20200219_3313.jpg 
 ---
-
+<img src="https://jonkalev.s3.us-west-2.amazonaws.com/_camp.jpg">
 
 
 Yesterday was officially the end of summer, my work as a guide ending for the season. Hopefully in the next few months I’ll get to explore some mountains I have yet to see and do some elk hunting. For those of you new to my journal Mavis is the name of my 31-year-old Toyota Landcruiser. Here are a few pics of her, traveling with her pulling a four-wheeler and hunting gear over mountain passes is an adventure. Any headwind reduces you to a speed of 50 mph.
