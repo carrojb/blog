@@ -96,7 +96,7 @@ These are stories deeply American, profoundly troubling and fascinating, and nev
 Hopefully, these photos and notes will offer a glimpse into the people and their struggle, outside of the false narratives presented regarding Malheur. 
 <p>Whether that takeover was a legitimate protest or act of domestic terrorism ultimately will be decided by historians. It is not my place to say, but to use my camera to pry deeper into the event itself and illustrate the beliefs behind it. The results of obtaining clemency for the Hammonds, their goal was successful and indisputable. 
  <p>
- The <a href="https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-executive-clemency-dwight-steven-hammond/">  presidents full pardon</a> in 2018 claimed the legal actions by the FBI, US Attorney and a federal judge against the Hammonds "shocked the consicence" and was "grossly disproportionate to the severity of their conduct". 
+ The <a href="https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-executive-clemency-dwight-steven-hammond/">  presidents full pardon</a> in 2018 claimed the legal actions by the FBI, US Attorney and a federal judge against the Hammonds "shocked the conscience" and was "grossly disproportionate to the severity of their conduct". 
  Whether one is for or against public land being used for ranching the fact remains 24 men and women paid the price of being arrested, prosecuted and serving time in jail to protest against the government demanding the Hammonds recieve clemency.
  
 
