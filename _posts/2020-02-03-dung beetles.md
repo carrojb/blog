@@ -62,11 +62,16 @@ https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930-beetles-48-72.jpg">
 <figcaption>48 and 72 hours elapsed</figcaption>
 </figure>
+  
+ <img src="https://justacowman.s3.us-east-2.amazonaws.com/20200203-Dungbettleroller1.jpg">
+<figcaption>A "roller" dung beetle and the ball they roll across the pasture before diffing a hole up to 12 inches deep to bury</figcaption>
+</figure>
 <p>
 <iframe src="https://player.vimeo.com/video/363429651?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+ 
 
-<p>Earlier this summer I went to central Florida to visit Sandra Marvel at Marvel Farms  - she and her husband have brangus cattle operation and I purchased a hundred beetles to re-establish them in my pastures in south Alabama.
+<p>A few summers ago I went to central Florida to visit Sandra Marvel at Marvel Farms  - she and her husband have red brangus cattle operation and I purchased a hundred beetles to re-establish them in my pastures in south Alabama.
  I've learned several things kill beetles. Most common is how we treat cattle, a commonly used medicine Ivomectin for example can eliminate beetle populations for years as can roadside right-of-way herbicides. There are options as to how this can be avoided which I will document this spring.
  <p> 
   If you have made it this far you can see this is a favorite topic of mine that I feel provides us the opportuniy to learn so much more about ecology and livestock. This is a subject I will come back to many times. One thing I want to do is try to develop a way photograph the beetles flying at night and get airborne counts. Let me think through this and what I need.
