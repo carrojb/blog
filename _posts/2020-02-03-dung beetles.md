@@ -45,7 +45,7 @@ I believe in time we will be able to develop a system of navigation based on how
 https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_Brainsizebeetle.jpg">
 <figcaption> Measurements of the active neural area of a dung beetle brain used for navigation as compared to other insects</figcaption>
 </figure>
-
+<p>
 Below are examples of how dung beetles grouped as "tunnelers" dig holes directly into the cow manure. 
   
 <figure>
@@ -66,8 +66,10 @@ Below are examples of how dung beetles grouped as "tunnelers" dig holes directly
   
   <figure>
  <img src="https://justacowman.s3.us-east-2.amazonaws.com/20200203-Dungbettleroller1.jpg">
-   <figcaption>A "roller" dung beetle, <i>Deltochilium semipunctus</i>, and the ball they roll across the pasture before digging a hole up to 12 inches deep to bury them</figcaption>
+   <figcaption>A "roller" dung beetle (Deltochilium semipunctus) and the ball they roll across the pasture before digging a hole up to 12 inches deep to bury them</figcaption>
 </figure>
+ <p>
+  Below is an example of a "tunneler" (Canthon semipunctus) that typically can be found in the manure pile and dig their tunnels directly underneath it.
 <p>
 <iframe src="https://player.vimeo.com/video/363429651?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
