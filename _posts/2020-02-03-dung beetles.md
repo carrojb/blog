@@ -69,10 +69,12 @@ Below are examples of how dung beetles grouped as "tunnelers" dig holes directly
    <figcaption>A "roller" dung beetle (Deltochilium semipunctus) and the ball they roll across the pasture before digging a hole up to 12 inches deep to bury them</figcaption>
 </figure>
  <p>
-  Below is an example of a "tunneler" (Canthon semipunctus) that typically can be found in the manure pile and dig their tunnels directly underneath it.
+  
 <p>
 <iframe src="https://player.vimeo.com/video/363429651?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<figure>
+ <figcaption>Example of a "tunneler" (Canthon semipunctus) that typically can be found in the manure pile and dig their tunnels directly underneath it.</figcaption>
+ </figure>
  
 
 <p>A few summers ago I went to central Florida to visit Sandra Marvel at Marvel Farms  - she and her husband have red brangus cattle operation and I purchased a hundred beetles to re-establish them in my pastures in south Alabama.
