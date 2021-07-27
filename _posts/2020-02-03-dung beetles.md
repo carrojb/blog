@@ -64,8 +64,9 @@ Below are examples of how dung beetles grouped as "tunnelers" dig holes directly
 <figcaption>48 and 72 hours elapsed</figcaption>
 </figure>
   
+  <figure>
  <img src="https://justacowman.s3.us-east-2.amazonaws.com/20200203-Dungbettleroller1.jpg">
-<figcaption>A "roller" dung beetle and the ball they roll across the pasture before digging a hole up to 12 inches deep to bury them</figcaption>
+   <figcaption>A "roller" dung beetle, <i>Deltochilium semipunctus</i>, and the ball they roll across the pasture before digging a hole up to 12 inches deep to bury them</figcaption>
 </figure>
 <p>
 <iframe src="https://player.vimeo.com/video/363429651?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
